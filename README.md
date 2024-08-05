@@ -3,14 +3,14 @@
 This repository contains the design and implementation of a Pressure Readout Board specifically for Agilent FRG-700/702 sensors. The board is designed to be mounted directly onto the pressure sensor and features an LED display that shows the pressure along with the unit. Additionally, it includes a custom-designed GUI application for viewing and analyzing data when connected to a computer via USB.
 
 <p align="center">
-  <img src="Figures/Final.png" width="50%" />
+  <img src="Figures/Final.jpg" width="50%" />
 </p>
 ### Key Features
 
 - **LED Display**: The board includes an LED display to show real-time pressure readings directly on the sensor.
 	<p align="center">
-	  <img src="Figures/1.jpg" width="45%" />
-	   <img src="Figures/2.jpg" width="45%" />
+	  <img src="Figures/1.jpg" width="30%" />
+	   <img src="Figures/2.jpg" width="30%" />
 	</p>
 - **USB Connectivity**: Connect the board to a computer via USB to access the data through a custom-designed GUI.
 - **GUI Application**:
