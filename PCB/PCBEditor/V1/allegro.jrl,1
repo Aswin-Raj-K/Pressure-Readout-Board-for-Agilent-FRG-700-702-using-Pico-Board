@@ -1,0 +1,86 @@
+\t (00:00:02) allegro 23.1 S004 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jul 22 15:29:09 2024
+\t (00:00:02)         Host=ARK User=kaswi Pid=24340 CPUs=20
+\t (00:00:02) CmdLine= D:\Softwares\Orcad\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PressureSensorV1
+\d (00:00:05) Design opened: D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/PressureSensorV1.brd
+\i (00:00:05) trapsize 6875
+\i (00:00:05) trapsize 7124
+\i (00:00:05) trapsize 6875
+\i (00:00:05) trapsize 6944
+\i (00:00:05) trapsize 7118
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -1.4911 160.7324
+\i (00:00:07) trapsize 14237
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -1.4910 146.9248
+\i (00:00:07) trapsize 28474
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -16.5148 41.5718
+\i (00:00:07) trapsize 28474
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 88.8383 -17.0843
+\i (00:00:08) trapsize 14237
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 88.8383 -17.0843
+\i (00:00:08) trapsize 7118
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 88.8384 -17.0843
+\i (00:00:08) trapsize 3559
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 65.3475 1.8508
+\i (00:00:08) trapsize 1780
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 65.3475 1.8509
+\i (00:00:08) trapsize 890
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 65.4188 1.8509
+\i (00:00:08) trapsize 445
+\i (00:00:09) roam start
+\i (00:00:09) roam y 16
+\i (00:00:09) roam y 64
+\i (00:00:09) roam x -16
+\i (00:00:09) roam y 48
+\i (00:00:09) roam y 48
+\i (00:00:09) roam y 32
+\i (00:00:09) roam y 16
+\i (00:00:09) roam y 48
+\i (00:00:09) roam y -32
+\i (00:00:09) roam y -80
+\i (00:00:09) roam y -160
+\i (00:00:09) roam x -16
+\i (00:00:09) roam y -128
+\i (00:00:09) roam y -80
+\i (00:00:09) roam y -80
+\i (00:00:09) roam y -144
+\i (00:00:09) roam y -96
+\i (00:00:09) roam y -32
+\i (00:00:09) roam y -32
+\i (00:00:09) roam end
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 67.1811 2.5721
+\i (00:00:12) trapsize 890
+\i (00:00:16) open 
+\i (00:00:28) fillin "D:/Projects/PCB/Pressure Sensor/PCBEditor/Libraries/mech_mount_hole.dra"
+\i (00:00:28) cd "D:/Projects/PCB/Pressure Sensor/PCBEditor/Libraries"
+\t (00:00:28) Opening existing design...
+\i (00:00:29) trapsize 35
+\i (00:00:29) trapsize 36
+\i (00:00:29) trapsize 35
+\i (00:00:29) trapsize 26
+\i (00:00:29) trapsize 29
+\t (00:00:29)     Journal end - Mon Jul 22 15:29:37 2024

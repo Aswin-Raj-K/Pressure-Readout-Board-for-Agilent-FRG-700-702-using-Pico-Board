@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 23.1 S004 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Jul 10 21:39:31 2024
+\t (00:00:02)         Host=ARK User=kaswi Pid=21172 CPUs=20
+\t (00:00:02) CmdLine= d:\softwares\orcad\tools\bin\allegro.exe D:\Projects\PCB\Pressure Sensor\Libraries\RP2040BreakoutBoard.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged RP2040BreakoutBoard
+\d (00:00:05) Design opened: D:/Projects/PCB/Pressure Sensor/Libraries/RP2040BreakoutBoard.dra
+\i (00:00:05) trapsize 4391
+\i (00:00:05) trapsize 4529
+\i (00:00:05) trapsize 4391
+\i (00:00:06) trapsize 4884
+\i (00:00:06) trapsize 4884
+\i (00:00:06) generaledit 
+\i (00:00:07) padeditdb 
+\i (00:00:10) trapsize 40982
+\i (00:00:10) trapsize 35750
+\i (00:00:16) exit 
+\t (00:00:16)     Journal end - Wed Jul 10 21:39:44 2024

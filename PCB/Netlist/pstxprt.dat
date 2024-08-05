@@ -1,0 +1,87 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Jul-22-2024 at 16:13:43 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PRESSURE SENSOR';
+ POST_TIME='Apr 17 2024 22:27:39';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'CONNEC2_MOLEX_53047-0210_CONNEC2':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS500@PARTLIBRARY.CONNEC2.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins500@partlibrary.\connec2.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins500@partlibrary.\connec2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,200)',
+ SECTION='';
+
+PART_NAME
+ J2 'CONNEC2_MOLEX_53047-0210_CONNEC2':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS512@PARTLIBRARY.CONNEC2.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins512@partlibrary.\connec2.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins512@partlibrary.\connec2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,270)',
+ SECTION='';
+
+PART_NAME
+ J3 'POWERJACK_PJ-002AH-SMT-TR_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS1231@PARTLIBRARY.POWERJACK_PJ-002AH-SMT-TR.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins1231@partlibrary.\powerjack_pj-002ah-smt-tr.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins1231@partlibrary.\powerjack_pj-002ah-smt-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,40)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RESRN60_120K':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS428@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins428@analog.\r.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins428@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,70)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RESRN50_55K':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS444@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins444@analog.\r.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins444@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,150)',
+ SECTION='';
+
+PART_NAME
+ U1 'RP2040_0P96LCD_BREAKOUTBOARD_RP2040BREAKOUTBOARD_RP2040 0.96 LCD BREAKOUT BOARD':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS138@PARTLIBRARY.RP2040_0P96LCD_BREAKOUTBOARD.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins138@partlibrary.\rp2040_0p96lcd_breakoutboard.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins138@partlibrary.\rp2040_0p96lcd_breakoutboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,170)',
+ SECTION='';
+
+PART_NAME
+ U2 'MPM3610_BREAKOUTBOARD_MPM3610BREAKOUTBOARD_MPM3610 5V BUCK CONVERTER BREAKOUT BOARD':;
+
+SECTION_NUMBER 1
+ '@PRESSURE SENSOR.SCHEMATIC1(SCH_1):INS473@PARTLIBRARY.MPM3610_BREAKOUTBOARD.NORMAL(CHIPS)':
+ C_PATH='@\pressure sensor\.schematic1(sch_1):ins473@partlibrary.\mpm3610_breakoutboard.normal\(chips)',
+ P_PATH='@\pressure sensor\.schematic1(sch_1):page1_ins473@partlibrary.\mpm3610_breakoutboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,50)',
+ SECTION='';
+
+END.

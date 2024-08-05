@@ -1,0 +1,426 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PressureSensorV1.brd                          )
+(    Software Version : 23.1S004                                      )
+(    Date/Time        : Sun Jul 14 14:36:08 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < 12_OUTLINE >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/12_OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     12_OUTLINE created.
+
+
+================================================================
+     PROCESSING FILM < 11_CONDUCTOR_BOTTOM >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/11_CONDUCTOR_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (10.8950 149.7700)
+           ... using undefined line width of 0.1000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+    WARNING: text composed 0 width line found at (12.1650 159.9300)
+           ... using undefined line width of 0.1000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.85000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.39000                                  DARK 
+  CIRCLE     1.56000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  SQUARE     0.85000                     0.000 NO     DARK 
+  SQUARE     1.39000                     0.000 NO     DARK 
+  SQUARE     1.56000                     0.000 NO     DARK 
+
+     11_CONDUCTOR_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < 10_ASSEMBLY_BOTTOM >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/10_ASSEMBLY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     10_ASSEMBLY_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 9_PASTEMASK_BOTTOM >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/9_PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     9_PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 8_SOLDERMASK_BOTTOM >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/8_SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.05000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.59000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.76000                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  SQUARE     1.05000                     0.000 NO     DARK 
+  SQUARE     1.59000                     0.000 NO     DARK 
+  SQUARE     1.76000                     0.000 NO     DARK 
+
+     8_SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 7_SILKSCREEN_BOTTOM >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/7_SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     7_SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 6_CONDUCTOR_TOP >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/6_CONDUCTOR_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.85000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.39000                                  DARK 
+  CIRCLE     1.56000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  SQUARE     0.85000                     0.000 NO     DARK 
+  SQUARE     1.39000                     0.000 NO     DARK 
+  SQUARE     1.56000                     0.000 NO     DARK 
+  RECTANGLE  2.80000     x 2.40000       0.000 NO     DARK 
+
+     6_CONDUCTOR_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 5_ASSEMBLY_TOP >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/5_ASSEMBLY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+
+     5_ASSEMBLY_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 4_PASTEMASK_TOP >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/4_PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  RECTANGLE  2.80000     x 2.40000       0.000 NO     DARK 
+
+     4_PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 2_SILKSCREEN_TOP >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/2_SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+
+     2_SILKSCREEN_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 1_DRILL_AND_CROSS >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/1_DRILL_AND_CROSS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     1_DRILL_AND_CROSS created.
+
+
+================================================================
+     PROCESSING FILM < 3_SOLDERMASK_TOP >
+     TO FILE < D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork/3_SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.05000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.59000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.76000                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  SQUARE     1.05000                     0.000 NO     DARK 
+  SQUARE     1.59000                     0.000 NO     DARK 
+  SQUARE     1.76000                     0.000 NO     DARK 
+  RECTANGLE  2.80000     x 2.40000       0.000 NO     DARK 
+
+     3_SOLDERMASK_TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        12_OUTLINE created.
+        11_CONDUCTOR_BOTTOM created with warnings
+        10_ASSEMBLY_BOTTOM created.
+        9_PASTEMASK_BOTTOM created.
+        8_SOLDERMASK_BOTTOM created.
+        7_SILKSCREEN_BOTTOM created.
+        6_CONDUCTOR_TOP created.
+        5_ASSEMBLY_TOP created.
+        4_PASTEMASK_TOP created.
+        2_SILKSCREEN_TOP created.
+        1_DRILL_AND_CROSS created.
+        3_SOLDERMASK_TOP created.
+
+ ARTWORK had warnings

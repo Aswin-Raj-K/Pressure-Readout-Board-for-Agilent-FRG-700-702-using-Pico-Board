@@ -1,0 +1,39 @@
+\t (00:00:29) allegro 23.1 S004 Windows SPB 64-bit Edition
+\t (00:00:29)     Journal start - Mon Jul 22 15:29:37 2024
+\t (00:00:29)         Host=ARK User=kaswi Pid=24340 CPUs=20
+\t (00:00:29) CmdLine= D:\Softwares\Orcad\tools\bin\allegro.exe
+\t (00:00:29) 
+\d (00:00:29) Design opened: D:/Projects/PCB/Pressure Sensor/PCBEditor/Libraries/mech_mount_hole.dra
+\i (00:00:29) generaledit 
+\i (00:00:33) open 
+\i (00:00:35) fillin "CUI_PJ-002AH-SMT-TR.dra"
+\t (00:00:35) Opening existing design...
+\i (00:00:35) trapsize 2491
+\i (00:00:35) trapsize 2558
+\i (00:00:35) trapsize 2491
+\i (00:00:35) trapsize 4085
+\d (00:00:35) Design opened: D:/Projects/PCB/Pressure Sensor/PCBEditor/Libraries/CUI_PJ-002AH-SMT-TR.dra
+\i (00:00:36) generaledit 
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 2.0842 -1.1736
+\i (00:00:36) trapsize 2042
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 2.0842 -1.1735
+\i (00:00:36) trapsize 1021
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 2.0842 -1.2348
+\i (00:00:36) trapsize 511
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 2.5336 -3.1547
+\i (00:00:37) trapsize 1021
+\i (00:01:18) opencd 'D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/PressureSensorV1.brd' 
+\t (00:01:18) Opening existing design...
+\i (00:01:19) trapsize 5184
+\i (00:01:19) trapsize 5324
+\i (00:01:19) trapsize 5184
+\i (00:01:19) trapsize 7414
+\t (00:01:19)     Journal end - Mon Jul 22 15:30:26 2024

@@ -1,0 +1,72 @@
+axlFilmCreate( "12_OUTLINE" ?negative nil ?undefineLineWidth 0.1000 ?sequence 15 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(doc ) 
+	?layers '("BOARD GEOMETRY/OUTLINE" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/REVISION_DATA" ))
+axlFilmCreate( "11_CONDUCTOR_BOTTOM" ?negative nil ?undefineLineWidth 0.1000 ?sequence 13 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(outer ) 
+	?layers '("VIA CLASS/BOTTOM" "PIN/BOTTOM" "ETCH/BOTTOM" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "10_ASSEMBLY_BOTTOM" ?negative nil ?undefineLineWidth 0.1000 ?sequence 12 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(misc ) 
+	?layers '("REF DES/ASSEMBLY_BOTTOM" "PACKAGE GEOMETRY/ASSEMBLY_BOTTOM" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "DEVICE TYPE/ASSEMBLY_BOTTOM" "COMPONENT VALUE/ASSEMBLY_BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "9_PASTEMASK_BOTTOM" ?negative nil ?undefineLineWidth 0.1000 ?sequence 11 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(solderpaste ) 
+	?layers '("VIA CLASS/PASTEMASK_BOTTOM" "PIN/PASTEMASK_BOTTOM" "PACKAGE GEOMETRY/PASTEMASK_BOTTOM" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "8_SOLDERMASK_BOTTOM" ?negative nil ?undefineLineWidth 0.1000 ?sequence 10 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(soldermask ) 
+	?layers '("VIA CLASS/SOLDERMASK_BOTTOM" "PIN/SOLDERMASK_BOTTOM" "PACKAGE GEOMETRY/SOLDERMASK_BOTTOM" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "BOARD GEOMETRY/SOLDERMASK_BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "7_SILKSCREEN_BOTTOM" ?negative nil ?undefineLineWidth 0.1000 ?sequence 9 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(silkscreen ) 
+	?layers '("REF DES/SILKSCREEN_BOTTOM" "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "DRAWING FORMAT/DRAWING_ORIGIN" "COMPONENT VALUE/SILKSCREEN_BOTTOM" "BOARD GEOMETRY/SILKSCREEN_BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "6_CONDUCTOR_TOP" ?negative nil ?undefineLineWidth 0.1000 ?sequence 8 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(outer ) 
+	?layers '("VIA CLASS/TOP" "PIN/TOP" "ETCH/TOP" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "5_ASSEMBLY_TOP" ?negative nil ?undefineLineWidth 0.1000 ?sequence 7 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(misc ) 
+	?layers '("DEVICE TYPE/ASSEMBLY_TOP" "REF DES/ASSEMBLY_TOP" "PACKAGE GEOMETRY/ASSEMBLY_TOP" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/REVISION_DATA" "COMPONENT VALUE/ASSEMBLY_TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "4_PASTEMASK_TOP" ?negative nil ?undefineLineWidth 0.1000 ?sequence 6 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(solderpaste ) 
+	?layers '("VIA CLASS/PASTEMASK_TOP" "PIN/PASTEMASK_TOP" "PACKAGE GEOMETRY/PASTEMASK_TOP" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "2_SILKSCREEN_TOP" ?negative nil ?undefineLineWidth 0.1000 ?sequence 5 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(silkscreen ) 
+	?layers '("REF DES/SILKSCREEN_TOP" "PACKAGE GEOMETRY/SILKSCREEN_TOP" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "DRAWING FORMAT/DRAWING_ORIGIN" "DEVICE TYPE/SILKSCREEN_TOP" "COMPONENT VALUE/SILKSCREEN_TOP" "BOARD GEOMETRY/SILKSCREEN_TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "1_DRILL_AND_CROSS" ?negative nil ?undefineLineWidth 0.1000 ?sequence 4 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(doc ) 
+	?layers '("BOARD GEOMETRY/OUTLINE" "MANUFACTURING/XSECTION_CHART" "MANUFACTURING/NCLEGEND-1-2" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "BOARD GEOMETRY/DIMENSION" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "3_SOLDERMASK_TOP" ?negative nil ?undefineLineWidth 0.1000 ?sequence 3 
+	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(soldermask ) 
+	?layers '("VIA CLASS/SOLDERMASK_TOP" "PIN/SOLDERMASK_TOP" "PACKAGE GEOMETRY/SOLDERMASK_TOP" "DRAWING FORMAT/TITLE_DATA" "DRAWING FORMAT/TITLE_BLOCK" "DRAWING FORMAT/REVISION_DATA" "DRAWING FORMAT/REVISION_BLOCK" "DRAWING FORMAT/OUTLINE" "BOARD GEOMETRY/SOLDERMASK_TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))

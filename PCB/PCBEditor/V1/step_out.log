@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    STEP Export                                                      )
+(                                                                     )
+(    Software Version : 23.1S004                                      )
+(    Date/Time        : Fri Jul 12 22:39:36 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+STEP file: D:/Projects/PCB/Pressure Sensor/PCBEditor/PressureSensorV1.stp
+Design file: D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/PressureSensorV1.brd
+Export units: Millimeter
+STEP protocol: AP-214
+Source identification: allegro_23.1S004
+Export selected and highlighted parts?: NO
+Export secondary parts?: NO
+Export parts with mapped STEP Models?: YES
+Ignore STEP definitions for mapped parts?: NO
+Export parts without mapped STEP Models?: YES
+Export assemblies and enclosures parts?: NO
+Export mechanical drills?: YES
+Export electrical through pin drills?: NO
+Export electrical through via drills?: NO
+Export bare board only?: NO
+Export external copper?: NO
+step_out complete.

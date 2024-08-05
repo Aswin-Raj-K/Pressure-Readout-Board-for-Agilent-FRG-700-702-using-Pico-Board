@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PressureSensorV1.brd                          )
+(    Software Version : 23.1S004                                      )
+(    Date/Time        : Sun Jul 14 20:05:06 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/Artwork' ...
+
+
+
+     'PressureSensorV1-1-2.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.5000    0.0000/  0.0000      PLATED          4
+            2.   0.8000    0.0000/  0.0000      PLATED          4
+            3.   1.0400    0.0000/  0.0000      PLATED         44
+            4.   3.5000    0.0000/  0.0000      PLATED          2
+            5.   1.7000    0.0000/  0.0000  NON_PLATED          1
+            6.   1.8000    0.0000/  0.0000  NON_PLATED          1
+
+     ---- Total holes:                                         56
+
+     ---- Total head travel:              1.46 feet (0.44 meters)
+

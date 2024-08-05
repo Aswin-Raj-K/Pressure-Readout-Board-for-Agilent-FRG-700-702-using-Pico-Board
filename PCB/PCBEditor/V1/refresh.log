@@ -1,0 +1,82 @@
+Fri Jul 12 18:18:53 2024				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Fri Jul 12 18:18:53 2024
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : PressureSensorV1.brd                          )
+(    Software Version : 23.1S004                                      )
+(    Date/Time        : Fri Jul 12 18:18:53 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Jul 12 18:18:53 2024				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'D:/Projects/PCB/Pressure Sensor/PCBEditor/V1/PressureSensorV1.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/kaswi/AppData/Local/Temp/#Taaaadl32200.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Softwares/Orcad/share/local/pcb/symbols 
+           D:/Softwares/Orcad/share/pcb/pcb_lib/symbols 
+           D:/Softwares/Orcad/share/pcb/allegrolib/symbols 
+           ../Libraries 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Softwares/Orcad/share/local/pcb/padstacks 
+           D:/Softwares/Orcad/share/pcb/pcb_lib/symbols 
+           D:/Softwares/Orcad/share/pcb/allegrolib/symbols 
+           ../Libraries 
+           ./Libraries 
+
+
+------ Symbol Refresh Messages ------
+
+'MPM3610BREAKOUTBOARD'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

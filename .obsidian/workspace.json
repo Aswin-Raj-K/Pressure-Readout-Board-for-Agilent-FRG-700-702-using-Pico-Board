@@ -148,14 +148,27 @@
   },
   "active": "d0b6ea5595a98326",
   "lastOpenFiles": [
+    "GUI/main.py",
+    "GUI/icon.png",
+    "GUI/DataViewer.py",
+    "GUI/SettingsDialog.py",
+    "GUI/PressureSensorReader.py",
+    "GUI/main.spec",
+    "GUI",
+    "New folder",
+    "Figures/top_silkscreen.png",
+    "Figures/schematic.png",
+    "Figures/Pressure_Sensor_3D_Assembed_Orthogonal.png",
+    "Figures/bottom_silkscreen.png",
+    "RJ45 Holder/V2/Stopper.stl",
+    "RJ45 Holder/V2/Holder.stl",
+    "RJ45 Holder/V2/Cap.stl",
+    "RJ45 Holder/V2/Axial.stl",
+    "PCB/Capture/PRESSURE SENSOR.png",
     "Figures/DetentMechanism.jpg",
     "GUI.png",
     "Figures/Final.jpg",
     "Figures/1.jpg",
-    "Figures/2.jpg",
-    "README.md",
-    "Figures/GUI.png",
-    "Figures/Pressure_Sensor_3D_Assembed2.png",
-    "Figures"
+    "README.md"
   ]
 }
