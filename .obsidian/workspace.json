@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "110703cfeeffc6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "2103343db865a5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b6ea5595a98326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "382523ff0c5ac8da",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e334e23463ad68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f425be6a94622c52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65111452ecc5a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9f4d6b79a478964",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05f6e82bbdacbe1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "229d3456c24f0877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82dbfaa04218b01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "635d3f8e114f7130",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f2a107338018e55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ee4fe5f89d1deff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0b6ea5595a98326",
+  "lastOpenFiles": [
+    "GUI.png",
+    "Figures/Final.jpg",
+    "Figures/1.jpg",
+    "Figures/2.jpg",
+    "README.md",
+    "Figures/GUI.png",
+    "Figures/Pressure_Sensor_3D_Assembed2.png",
+    "Figures"
+  ]
+}
