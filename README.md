@@ -1,0 +1,2 @@
+# Pressure-Readout-Board-for-Agilent-FRG-700-702-using-Pico-Board
+ This repository contains the design and implementation of a Pressure Readout Board specifically for Agilent FRG-700/702 sensors. The board is designed to be mounted directly onto the pressure sensor and features an LED display that shows the pressure along with the unit. Additionally, it includes a custom-designed GUI application for viewing and analyzing data when connected to a computer via USB.
