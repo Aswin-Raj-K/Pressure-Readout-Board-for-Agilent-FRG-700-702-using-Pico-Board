@@ -5,6 +5,7 @@ This repository contains the design and implementation of a Pressure Readout Boa
 <p align="center">
   <img src="Figures/Final.jpg" width="50%" />
 </p>
+
 ### Key Features
 
 - **LED Display**: The board includes an LED display to show real-time pressure readings directly on the sensor.
@@ -24,6 +25,7 @@ This repository contains the design and implementation of a Pressure Readout Boa
 <p align="center">
   <img src="Figures/GUI.png" width="50%" />
 </p>
+
 ### Detent Mechanism
 
 The board features a detent mechanism that allows the RJ45 connector to rotate in 45-degree increments, providing optimal LCD orientation. This mechanism uses a spring and is designed in Fusion 360 and 3D printed using an Ultimaker.
