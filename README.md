@@ -1,6 +1,6 @@
 ### Pressure-Readout-Board-for-Agilent-FRG-700-702-using-Pico-Board
 
-This repository contains the design and implementation of a Pressure Readout Board specifically for Agilent FRG-700/702 sensors. The board is designed to be mounted directly onto the pressure sensor and features an LED display that shows the pressure along with the unit. Additionally, it includes a custom-designed GUI application for viewing and analyzing data when connected to a computer via USB.
+This repository contains the design and implementation of a Pressure Readout Board specifically for Agilent FRG-700/702 sensors. The board is designed to be mounted directly onto the pressure sensor and features an LED display that shows the pressure along with the unit. It also includes a detent mechanism to rotate the RJ45 connector, allowing for optimal LCD orientation. Additionally, it comes with a custom-designed GUI application for viewing and analyzing data when connected to a computer via USB.
 
 <p align="center">
   <img src="Figures/Final.jpg" width="50%" />
@@ -24,3 +24,8 @@ This repository contains the design and implementation of a Pressure Readout Boa
 <p align="center">
   <img src="Figures/GUI.png" width="50%" />
 </p>
+### Detent Mechanism
+
+The board features a detent mechanism that allows the RJ45 connector to rotate in 45-degree increments, providing optimal LCD orientation. This mechanism uses a spring and is designed in Fusion 360 and 3D printed using an Ultimaker.
+
+<p align="center"> <img src="Figures/DetentMechanism.jpg" width="50%" /> </p>
